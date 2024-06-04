@@ -9,7 +9,6 @@ export const App = () => {
       <Navbar />
       <Hero />
       <HomeCards />
-
     </>
   );
 };
